@@ -17,6 +17,9 @@
 
 [![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api?username=fl0101&count_private=true)](https://github.com/fl0101/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fl0101&layout=compact)](https://github.com/fl0101/github-readme-stats)
+
+
 ## Languages, Frameworks and Tools I know and Study
 
 <code><img height="21" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
