@@ -4,7 +4,7 @@
 
 :house_with_garden: I'm from Brazil.
 
-:books: I'm currently learning Python programming
+:books: I'm currently learning JavaScript programming
 
 :outbox_tray: Goals for 2024: find a new job.
 
