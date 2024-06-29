@@ -1,6 +1,6 @@
 ## Hi, I’m Flaviane 👋
 
-:computer: I'm Back-End Developer!
+:computer: I'm Full Stack Developer!
 
 :house_with_garden: I'm from Brazil.
 
