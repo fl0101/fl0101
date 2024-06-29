@@ -6,7 +6,7 @@
 
 :books: I'm currently learning Python programming
 
-:outbox_tray: Goals for 2022: find a new job.
+:outbox_tray: Goals for 2024: find a new job.
 
 ## About me
 
